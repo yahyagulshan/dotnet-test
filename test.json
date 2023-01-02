@@ -1,0 +1,9 @@
+{
+    "Logging": {
+      "LogLevel": {
+        "Default": "test",
+        "Microsoft.AspNetCore": "this is test warning"
+      }
+    },
+    "AllowedHosts": "*"
+  }
